@@ -1,0 +1,262 @@
+html{
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: 'Rubik', sans-serif;
+    color:#545454;
+    background-color: #000;
+}
+
+body{
+    background-color: #000;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+
+/************
+DÉCLARATION GÉNÉRALES
+*************/
+h1, h2, h3{
+    font-family: 'Source Serif Pro', serif;
+    line-height: 1;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+p{
+    margin-top: 18px;
+}
+div.interface {
+    width: 1500px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+/************
+ Boutons
+*************/
+
+.btn {
+    width: 200px;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 1.3;
+    margin-top: 18px;
+    padding: 12px 0px;
+    display: block;
+    text-decoration: none;
+}
+
+.btn_rouge{
+    background-color: #fff;
+    color: #a5172f;
+    border-color:#a5172f;
+}
+.btn_rouge:hover{
+    background-color: #a5172f;
+    color: #e5ea51;
+}
+
+.btn_jaune{
+    background-color: #a5172f;
+    color: #e5ea51;
+    border: 2px solid #e5ea51;
+}
+
+.btn_jaune:hover{
+    background-color: #e5ea51;
+    color:#a5172f;
+}
+
+/************
+ TITRE PRINCIPAL
+*************/
+
+h1{
+    padding-top: 400px;
+    padding-bottom: 60px;
+    font-size: 48px;
+    text-align: center;
+    color: #fff;
+    background-image: url(../img/no_music_no_life.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+/************
+ NAVIGATION
+*************/
+
+nav ul{
+    background-color: #a5172f;
+    list-style: none;
+    display: flex;
+}
+
+nav a{
+    padding: 32px;
+    display: block;
+    text-decoration: none;
+    color: #e5ea51;
+    text-transform: uppercase;
+}
+nav a:hover{
+    background-color: #e5ea51;
+    color: #a5172f;
+}
+
+nav ul li:last-child{
+    margin-left: auto;
+    background-color: #130106;
+}
+nav li:last-child a:hover{
+    background-color: white;
+    color:#a5172f ;
+}
+
+nav ul li:last-child .material-icons {
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+/************
+ INTRO
+*************/
+.intro {
+    padding: 100px 238px;
+    background-image: url(../img/diago_top.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+}
+
+.intro h2{
+    color: #a5172f;
+}
+
+.production, .diffusion{
+    width: 1024px;
+    display: flex;
+}
+
+.production .colonne {
+    width: 400px;
+    padding: 24px;
+}
+
+.production img{
+    width: 624px;
+    object-fit: cover;
+}
+
+.diffusion{
+    position: relative;
+}
+
+.diffusion .colonne {
+    width: 300px;
+    padding: 24px;
+}
+
+.diffusion img{
+    width: 400px;
+    object-fit: cover;
+}
+.diffusion .realite{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+/************
+ MUSIQUE CONTINUE
+*************/
+.musique_continu {
+    padding: 100px 238px;
+    background-color: #a5172f;
+    color: #e5ea51;
+    display: flex;
+}
+
+.musique_continu img{
+    width: 624px;
+    object-fit: cover;
+}
+
+.musique_continu .colonne{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/************
+ SPECTACLES
+*************/
+.spectacles {
+    padding: 100px 238px;
+    background-image: url(../img/diago_bottom.png);
+    background-size: contain;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.spectacles h2{
+    color: #a5172f;
+}
+
+.spectacles ul{
+    display: grid;
+    width: 1024px;
+    gap: 12px;
+    grid-template-columns: repeat(4, 247px);
+    grid-template-rows: repeat(3, 400px);
+}
+
+.spectacles li{
+    padding: 12px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #e5ea51;
+    list-style: none;
+}
+
+.spectacles h3{
+    color: #a5172f;
+    margin-top: 12px;
+}
+
+.spectacles h3::after{
+    content: "";
+    width: 50px;
+    height: 5px;
+    display: block;
+    background-color: #a5172f;
+    margin: 5px auto 16px;
+}
+
+.spectacles img{
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+.spectacles .en-vedette{
+    grid-column: 1/ span 3;
+}
+
+.spectacles .reserver{
+    width: 200px;
+    text-align: center;
+    padding: 12px;
+    border-radius: 20px;
+    background-color: #a5172f;
+    color: #e5ea51;
+    display: block;
+    margin: 16px auto;
+    text-decoration: none;
+}

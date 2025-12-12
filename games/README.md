@@ -24,3 +24,21 @@ Gameplay Video: [🎬Game2](videos/game2.mp4)
 ![Screenshot](screenshots/screenshotGame3.png)
 
 Gameplay Video: [🎬Game3](videos/game3.mp4)
+
+### **Game 4 – (Whac-A-Mole)**
+
+- Description: Click on moles as they appear and score points before time runs out.
+
+**Screenshot:**  
+![Screenshot](screenshots/screenshotGame4.png)
+
+Gameplay Video: [🎬Game4](videos/game4.mp4)
+
+### **Game 5 – (Word Search Panda)**
+
+- Description: Guess the hidden word by selecting letters before running out of attempts.
+
+**Screenshot:**  
+![Screenshot](screenshots/screenshotGame5.png)
+
+Gameplay Video: [🎬Game5](videos/game5.mp4)

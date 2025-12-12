@@ -1,7 +1,7 @@
 # 🕹️ Game Projects
 
 ### **Game 1 – (Bataille Spatiale)**
-- Description: A small space-themed Breakout game where you destroy obstacles with a bouncing ball.
+- Description: A small space-themed Breakout game where you destroy spaceships with a bouncing ball.
 
 **Screenshot:**  
 ![Screenshot](screenshots/screenshotGame1.png)

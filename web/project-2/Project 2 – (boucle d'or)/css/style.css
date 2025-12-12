@@ -1,0 +1,242 @@
+html{
+    box-sizing: border-box;
+    font-size: 22px;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#8c6955;
+    background-color: white;
+}
+
+body{
+    background-color: white;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+div.interface {
+    background-color: #fff;
+}
+li{
+    list-style: none;
+}
+header nav{
+    background-image: url(../img/Barbier_noir-ET-blanc.jpg);
+    height: 900px;
+    background-position:top;
+    background-size: cover;
+}
+header nav ul a{
+    color: #8c6955;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight:bold;
+    display: block;
+    padding-top: 38px;
+    margin-right: 25px;
+}
+header nav ul a:hover{
+    color: #fff;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+header nav ul{
+    display: flex;
+    justify-content: center;
+    margin : 0 auto;
+}
+ul .langues{
+    margin-left: auto;
+    display: flex;
+}
+h1{
+    font-size: 60px;
+}
+nav h1{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.menu{
+    margin: auto;
+    display: flex;
+}
+footer{
+    background-color: #8c6955;
+    color: #412814;
+}
+footer nav img{
+    width: 300px;
+    position: absolute;
+    margin-right: auto;
+    right: 40px;
+    rotate: 170deg;
+    top: 1940px;
+}
+
+footer nav ul{
+    margin-left: auto;
+    display: flex;
+}
+footer nav ul a{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight:bold;
+    color: #412814;
+    margin-right: 25px;
+    display: block;
+    padding-top: 22px;
+}
+.rectangle{
+    color:rgba(0, 0, 0, 0);
+    width: 380px;
+    height: 170px;
+    position: absolute;
+    top: 1304px;
+    border: #412814;
+    border-bottom-width: 30px;
+    border-bottom-style: solid;
+    border-right-width: 30px;
+    border-right-style: solid;
+}
+.centre ul{
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    text-transform: uppercase;
+}
+.centre ul a{
+    color: #412814;
+    text-decoration: none;
+    font-size: 25px;
+}
+.centre ul a:hover{
+    color: white;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+
+.BasPage ul{
+    text-align: center;
+    display: flex;
+
+}
+.BasPage ul a{
+    color: #412814;
+    text-decoration: none;
+    font-size: 20px;
+}
+.BasPage ul a:hover{
+    color: white;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+.symbols{
+    position:absolute;
+    top: 2100px;
+    margin-left: 25px;
+}
+.symbols a{
+    color: #412814;
+    font-size: 20px;
+}
+.material-icons{
+    font-size: 30px;
+}
+.symbols a:hover{
+    color: white;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+footer .langues a:hover{
+    color: white;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+.BasPage ul{
+    justify-content:space-between;
+    padding: 15px;
+}
+.presentation img{
+    width: 350px;
+    margin-top: 20px;
+}
+.presentation .text{
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 500px;
+    padding-right: 800px;
+    padding-top: 80px;
+    color: #412814;
+    font-weight: bold;
+}
+.presentation{
+    display: flex;
+}
+.presentation .text h2{
+    color: #74020c;
+    line-height: 90px;
+    font-weight: 780;
+    font-size: 30px;
+}
+.materiels h2{
+    color: #74020c;
+    font-size: 20px;
+    line-height: 40px;
+}
+.materiels h1{
+    text-align: center;
+    font-size: 50px;
+}
+.materiels img{
+    width: 400px;
+    height: 230px;
+    background-size: cover;
+    background-position: center;
+}
+.materiels .fenetre{
+    display: flex;
+    justify-content: center;
+}
+.materiels article{
+    width: 450px;
+}
+.fenetre {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.fenetre p{
+    padding-right: 120px;
+    color: #412814;
+    font-size: 17px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.Remonter{
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    margin-left: auto;
+    padding-right: 20px;
+    position: absolute;
+    right: 20px;
+    top: 2120px;
+}
+footer nav .langues a:hover{
+    color: #fff;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+footer .centre .Remonter a:hover{
+    color: #fff;
+    border-left-width: 2px;
+    border-left-style: solid;
+}
+.gif{
+    background-position:right;
+    position: absolute;
+    right: 0px;
+    top: 1000px;
+    background-size: cover;
+}

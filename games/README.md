@@ -4,7 +4,7 @@
 - Description: A dynamic event website highlighting music shows with bold visuals and a clean, modern layout.
 
 **Screenshot:**  
-![Screenshot](project-1/screenshot1.png)
+![Screenshot](/screenshots/screenshotGame1.png)
 
 Gameplay Video:
 (link to the video on GitHub – here)

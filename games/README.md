@@ -11,7 +11,7 @@ Gameplay Video:
 
 ### **Game 2 – (nom du jeu)**
 
-Description: Another quick description. (Ex: A top-down survival game with crafting, enemies, and randomized maps.)
+- Description: Another quick description. (Ex: A top-down survival game with crafting, enemies, and randomized maps.)
 
 **Screenshot:**  
 ![Screenshot](project-1/screenshot1.png)
@@ -21,7 +21,7 @@ Gameplay Video:
 
 ### **Game 3 – (nom du jeu)**
 
-Description: (Ex: A 2D puzzle game where the player manipulates objects to reach the exit.)
+- Description: (Ex: A 2D puzzle game where the player manipulates objects to reach the exit.)
 
 **Screenshot:**  
 ![Screenshot](project-1/screenshot1.png)

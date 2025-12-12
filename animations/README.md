@@ -4,5 +4,5 @@ This folder contains a collection of small animations I created.
 They are mainly GIFs and represent some of my creative projects made during my learning journey.
 
 ## Examples
-![Animation 1]([https://raw.githubusercontent.com/YOUR-USER/portfolio/main/animations/animation1.gif](https://github.com/JustinPPelletier/portfolio/blob/main/animations/projet_animation2.gif))
+![Animation 1]((https://github.com/JustinPPelletier/portfolio/blob/main/animations/projet_animation2.gif))
 

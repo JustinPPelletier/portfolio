@@ -5,6 +5,10 @@ A dynamic event website highlighting music shows with bold visuals and a modern 
 ## Screenshot
 ![Screenshot](screenshot1.png)
 
+## Demo
+
+[View Demo](videos/demo.mp4)
+
 ## Technologies
 - HTML
 - CSS

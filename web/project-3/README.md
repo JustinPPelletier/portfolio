@@ -1,6 +1,6 @@
 # Project 3 – Guide TV
 
-A dynamic event website highlighting music shows with bold visuals and a modern layout.
+An interactive platform displaying movies and series by category, offering a simple and intuitive browsing experience.
 
 ## Demo
 

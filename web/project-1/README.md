@@ -7,7 +7,7 @@ A dynamic event website highlighting music shows with bold visuals and a modern 
 
 ## Demo
 
-[View Demo](videos/demo.mp4)
+[View Demo](nomusic.mp4)
 
 ## Technologies
 - HTML

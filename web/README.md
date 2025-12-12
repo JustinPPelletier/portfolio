@@ -21,5 +21,13 @@ These projects were built to practice layout, styling, animations, and basic fro
 
 ---
 
+### **Project 3 – (Name of the project)**
+- Description: Small interactive page built to experiment with animations and scripting.
+
+**Screenshot:**  
+![Screenshot](project-3/screenshot3.png)
+
+---
+
 ## 📝 Notes
 Some projects are small practice exercises, while others are complete pages.  

@@ -6,7 +6,7 @@
 **Screenshot:**  
 ![Screenshot](screenshots/screenshotGame1.png)
 
-Gameplay Video: ![🎬Game1](videos/game1.mp4)
+
 [🎬 Watch the .mp4 video](https://raw.githubusercontent.com/YOUR-USER/portfolio/main/web/project-1/video.mp4)
 ### **Game 2 – (nom du jeu)**
 

@@ -1,4 +1,4 @@
-# 🕹️ Projects
+# 🕹️ Game Projects
 
 ### **Game 1 – (nom du jeu)**
 - Description: A dynamic event website highlighting music shows with bold visuals and a clean, modern layout.

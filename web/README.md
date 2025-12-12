@@ -10,7 +10,7 @@ These projects were built to practice layout, styling, animations, and basic fro
 - Description: A simple webpage created to practice layout and visual design.
 
 **Screenshot:**  
-![Screenshot](<img width="1233" height="916" alt="image" src="https://github.com/user-attachments/assets/5d8aa2cc-2806-4f7f-97c7-1d9bfa8aae14" />)
+![Screenshot](web/Project 1/Capture d’écran 2025-12-11 221128.png)
 
 ---
 

@@ -6,7 +6,6 @@ These projects were built to practice layout, styling, animations, and basic fro
 ## 🌐 Projects
 
 ### **Project 1 – (nomusic)**
-- Technologies: HTML, CSS
 - Description: A simple webpage created to practice layout and visual design.
 
 **Screenshot:**  
@@ -15,7 +14,6 @@ These projects were built to practice layout, styling, animations, and basic fro
 ---
 
 ### **Project 2 – (Name of the project)**
-- Technologies: HTML, CSS, JavaScript
 - Description: Small interactive page built to experiment with animations and scripting.
 
 **Screenshot:**  

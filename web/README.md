@@ -6,7 +6,7 @@ These projects were built to practice layout, styling, animations, and basic fro
 ## 🌐 Projects
 
 ### **Project 1 – (nomusic)**
-- Description: A simple webpage created to practice layout and visual design.
+- Description: A dynamic event website highlighting music shows with bold visuals and a clean, modern layout.
 
 **Screenshot:**  
 ![Screenshot](project-1/screenshot1.png)
@@ -14,7 +14,7 @@ These projects were built to practice layout, styling, animations, and basic fro
 ---
 
 ### **Project 2 – (Boucle d'or)**
-- Description: Small interactive page built to experiment with animations and scripting.
+- Description: A stylish barber shop website showcasing services, expertise, and professional tools with a warm, elegant design.
 
 **Screenshot:**  
 ![Screenshot](project-2/screenshot2.jpg)
@@ -22,7 +22,7 @@ These projects were built to practice layout, styling, animations, and basic fro
 ---
 
 ### **Project 3 – (Guide TV)**
-- Description: Small interactive page built to experiment with animations and scripting.
+- Description: An interactive platform displaying movies and series by category, offering a simple and intuitive browsing experience.
 
 **Screenshot:**  
 ![Screenshot](project-3/screenshot3.png)

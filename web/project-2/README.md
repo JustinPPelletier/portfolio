@@ -1,6 +1,6 @@
 # Project 2 – Boucle d'or
 
-A dynamic event website highlighting music shows with bold visuals and a modern layout.
+A stylish barber shop website showcasing services, expertise, and professional tools with a warm, elegant design.
 
 ## Demo
 

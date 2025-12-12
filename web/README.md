@@ -13,7 +13,7 @@ These projects were built to practice layout, styling, animations, and basic fro
 
 ---
 
-### **Project 2 – (Name of the project)**
+### **Project 2 – (Boucle d'or)**
 - Description: Small interactive page built to experiment with animations and scripting.
 
 **Screenshot:**  
@@ -21,7 +21,7 @@ These projects were built to practice layout, styling, animations, and basic fro
 
 ---
 
-### **Project 3 – (Name of the project)**
+### **Project 3 – (Guide TV)**
 - Description: Small interactive page built to experiment with animations and scripting.
 
 **Screenshot:**  

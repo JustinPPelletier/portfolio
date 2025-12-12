@@ -2,9 +2,6 @@
 
 A dynamic event website highlighting music shows with bold visuals and a modern layout.
 
-## Screenshot
-![Screenshot](screenshot1.png)
-
 ## Demo
 
 ![Demo](nomusic.gif)

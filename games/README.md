@@ -14,7 +14,7 @@ Gameplay Video:
 - Description: Another quick description. (Ex: A top-down survival game with crafting, enemies, and randomized maps.)
 
 **Screenshot:**  
-![Screenshot](project-1/screenshot1.png)
+![Screenshot](screenshots/screenshotGame2.png)
 
 Gameplay Video:
 (link to the video on GitHub – here)
@@ -24,7 +24,7 @@ Gameplay Video:
 - Description: (Ex: A 2D puzzle game where the player manipulates objects to reach the exit.)
 
 **Screenshot:**  
-![Screenshot](project-1/screenshot1.png)
+![Screenshot](screenshots/screenshotGame3.png)
 
 Gameplay Video:
 (link to the video on GitHub – here)

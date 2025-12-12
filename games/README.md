@@ -14,8 +14,7 @@ Gameplay Video: [🎬Game1](videos/game1.mp4)
 **Screenshot:**  
 ![Screenshot](screenshots/screenshotGame2.png)
 
-Gameplay Video:
-(link to the video on GitHub – here)
+Gameplay Video: [🎬Game2](videos/game2.mp4)
 
 ### **Game 3 – (nom du jeu)**
 
@@ -24,5 +23,4 @@ Gameplay Video:
 **Screenshot:**  
 ![Screenshot](screenshots/screenshotGame3.png)
 
-Gameplay Video:
-(link to the video on GitHub – here)
+Gameplay Video: [🎬Game3](videos/game3.mp4)

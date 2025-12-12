@@ -17,7 +17,7 @@ These projects were built to practice layout, styling, animations, and basic fro
 - Description: Small interactive page built to experiment with animations and scripting.
 
 **Screenshot:**  
-![Screenshot](screenshot2.png)
+![Screenshot](project-2/screenshot2.jpg)
 
 ---
 

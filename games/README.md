@@ -37,8 +37,7 @@
 ### **Game 5 – (Word Search Panda)**
 
 - Description: Guess the hidden word by selecting letters before running out of attempts.
+- Gameplay Video: [🎬Game5](videos/game5.mp4)
 
 **Screenshot:**  
 ![Screenshot](screenshots/screenshotGame5.png)
-
-Gameplay Video: [🎬Game5](videos/game5.mp4)
